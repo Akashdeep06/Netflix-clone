@@ -51,9 +51,7 @@ export default function Username({navigation}: Props) {
       firestore()
         .collection('userProfiles')
         .add(newUser)
-        .then(() => {
-          console.log('Added succ');
-        })
+        .then(() => {})
         .catch(err => {
           console.log({err});
         });
