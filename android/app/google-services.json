@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533956689301",
+    "project_id": "netflix-9511e",
+    "storage_bucket": "netflix-9511e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533956689301:android:6f10c627ca2a5e562cca9c",
+        "android_client_info": {
+          "package_name": "com.newfigma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtMbgPAR0lHeLXbHQHM2aKTOq5hCL5YkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
