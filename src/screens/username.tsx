@@ -102,6 +102,9 @@ export default function Username({navigation}: Props) {
       <TouchableOpacity onPress={addUser} style={styles.addButton}>
         <Image source={images.addprofile} style={styles.item} />
       </TouchableOpacity>
+      <TouchableOpacity onPress={addUser} style={styles.addButton}>
+        <Image source={images.addprofile} style={styles.item} />
+      </TouchableOpacity>
     </SafeAreaView>
   );
 }
